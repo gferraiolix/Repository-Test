@@ -1,5 +1,5 @@
 <mvc:View controllerName="sap.btp.helloworldui5.controller.View1" xmlns="sap.m" xmlns:mvc="sap.ui.core.mvc" displayBlock="true">
-  <Page id="page" title="{HelloWoRlD>title}">
+  <Page id="page" title="{HelloWoRlD}">
     <content>
       <IllustratedMessage id="ilm1" enableVerticalResponsiveness="true" illustrationType="sapIllus-SuccessBalloon">
       </IllustratedMessage>
